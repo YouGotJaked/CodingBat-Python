@@ -3,7 +3,7 @@ def make_chocolate(small, big, goal):
 
 	if big >= max:
 		if small >= (goal - 5 * max)
-			retun goal - 5 * max
+			return goal - 5 * max
 	if big < max:
 		if small >= (goal - 5 * big);
 			return goal - 5 * big
